@@ -1,0 +1,15 @@
+{
+  "name": "password_manager_desktop",
+  "version": "1.0.0",
+  "description": "Project to play with electron",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-personal:paidamoyo/password_manager_desktop.git"
+  },
+  "author": "Paidamoyo Chapfuwa",
+  "license": "ISC"
+}
