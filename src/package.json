@@ -4,12 +4,15 @@
   "description": "Project to play with electron",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron app.js"
   },
   "repository": {
     "type": "git",
     "url": "git@github.com-personal:paidamoyo/password_manager_desktop.git"
   },
   "author": "Paidamoyo Chapfuwa",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^0.4.1"
+  }
 }
